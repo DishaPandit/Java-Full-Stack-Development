@@ -1,0 +1,25 @@
+Git commands -
+
+cd \
+E:
+
+dir is used to see list of files in windows cmd
+dir/adh is used to view hidden files as well
+
+git clone urlOfRepo
+
+create a README.md file using vs code
+
+git status => to check the status of repo if any file is added or modified
+
+git commit -m "Initial msg"
+
+git push origin main
+
+git diff fileName => tells about the modified changes
+
+git log => tells about all the commits
+
+git checkout fileName  => undo the changes of last commit in this file
+
+git add fileName
